@@ -13,7 +13,9 @@ low image 400
 ![selectTyperQr400](https://github.com/puutaro/selectTyper/assets/55217593/dc7e36fd-cf37-4580-b55e-cf55f09fde91)
   
 
-width 300
+width 300  
+ 
+
 <img src="https://github.com/puutaro/selectTyper/assets/55217593/dc7e36fd-cf37-4580-b55e-cf55f09fde91" width="300"> 
 
 
