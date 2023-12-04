@@ -3,6 +3,7 @@
 <!-- ![image](https://github.com/puutaro/selectTyper/assets/55217593/471cb0e7-f976-4aec-971c-953469878b71)　-->
 <!-- ![image](https://github.com/puutaro/selectTyper/assets/55217593/49de9932-24ba-475c-8dc7-4d8da58c4f06)　-->
 <!-- ![image](https://github.com/puutaro/selectTyper/assets/55217593/6048e08c-3f87-47e2-899a-a51275c92823) -->
+![image](https://github.com/puutaro/selectTyper/assets/55217593/2b569930-b46e-4d4e-aaa5-f6e6dd0b4226)
 
 <!-- low  -->
 ![image](https://github.com/puutaro/selectTyper/assets/55217593/d96dcef7-dda5-43c9-9864-1c67bc886a61)
