@@ -1,9 +1,10 @@
 
 <!-- ![selectTyperQr](https://github.com/puutaro/selectTyper/assets/55217593/98e0aaa1-6a43-4291-bcba-619dd583a5ce)　-->
 <!-- ![image](https://github.com/puutaro/selectTyper/assets/55217593/471cb0e7-f976-4aec-971c-953469878b71)　-->
+<!-- ![image](https://github.com/puutaro/selectTyper/assets/55217593/49de9932-24ba-475c-8dc7-4d8da58c4f06)　-->
 
 　
-<img src="https://github.com/puutaro/selectTyper/assets/55217593/471cb0e7-f976-4aec-971c-953469878b71" width="300">  
+<img src="https://github.com/puutaro/selectTyper/assets/55217593/49de9932-24ba-475c-8dc7-4d8da58c4f06" width="300">  
 <img src="https://github.com/puutaro/selectTyper/assets/55217593/555e8f5f-656a-4faf-bb76-f663c01cfe47" width="300">   
 
 <!-- ![install_qr](https://github.com/puutaro/selectTyper/assets/55217593/555e8f5f-656a-4faf-bb76-f663c01cfe47) -->
