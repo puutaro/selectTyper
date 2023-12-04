@@ -8,6 +8,11 @@
 <!-- low  -->
 ![image](https://github.com/puutaro/selectTyper/assets/55217593/d96dcef7-dda5-43c9-9864-1c67bc886a61)
 
+low image 500  
+
+![selectTyperQr500](https://github.com/puutaro/selectTyper/assets/55217593/1b6d061a-f780-4ddf-951c-103a47a7cea4)
+
+
 lwo iamge
 ![selectTyperQr](https://github.com/puutaro/selectTyper/assets/55217593/bdaf8ec8-6503-48d9-b93b-f2cc5eb64e27)
 
