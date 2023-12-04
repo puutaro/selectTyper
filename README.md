@@ -1,6 +1,6 @@
 
 　
-<img src="https://github.com/puutaro/selectTyper/assets/55217593/a7d2c2b7-62be-45cc-bdcb-3cd9be8a16fa" width="300">  
+<img src="https://github.com/puutaro/selectTyper/assets/55217593/7a41a08d-f93c-4ed8-b85f-8d53207b7c72" width="300">  
 <img src="https://github.com/puutaro/selectTyper/assets/55217593/555e8f5f-656a-4faf-bb76-f663c01cfe47" width="300">   
 
 <!-- ![install_qr](https://github.com/puutaro/selectTyper/assets/55217593/555e8f5f-656a-4faf-bb76-f663c01cfe47) -->
