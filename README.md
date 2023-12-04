@@ -4,8 +4,11 @@
 <!-- ![image](https://github.com/puutaro/selectTyper/assets/55217593/49de9932-24ba-475c-8dc7-4d8da58c4f06)　-->
 <!-- ![image](https://github.com/puutaro/selectTyper/assets/55217593/6048e08c-3f87-47e2-899a-a51275c92823) -->
 
+<!-- low  -->
+![image](https://github.com/puutaro/selectTyper/assets/55217593/d96dcef7-dda5-43c9-9864-1c67bc886a61)
+
 　
-<img src="https://github.com/puutaro/selectTyper/assets/55217593/6048e08c-3f87-47e2-899a-a51275c92823" width="300">  
+<img src="https://github.com/puutaro/selectTyper/assets/55217593/d96dcef7-dda5-43c9-9864-1c67bc886a61" width="300">  
 <img src="https://github.com/puutaro/selectTyper/assets/55217593/555e8f5f-656a-4faf-bb76-f663c01cfe47" width="300">   
 
 <!-- ![install_qr](https://github.com/puutaro/selectTyper/assets/55217593/555e8f5f-656a-4faf-bb76-f663c01cfe47) -->
