@@ -8,6 +8,9 @@
 <!-- low  -->
 ![image](https://github.com/puutaro/selectTyper/assets/55217593/d96dcef7-dda5-43c9-9864-1c67bc886a61)
 
+select typer site
+![image](https://github.com/puutaro/selectTyper/assets/55217593/1bcb080b-2f94-4085-a5c5-40212788a074)
+
 　
 <img src="https://github.com/puutaro/selectTyper/assets/55217593/d96dcef7-dda5-43c9-9864-1c67bc886a61" width="300">  
 <img src="https://github.com/puutaro/selectTyper/assets/55217593/555e8f5f-656a-4faf-bb76-f663c01cfe47" width="300">   
