@@ -8,6 +8,15 @@
 <!-- low  -->
 ![image](https://github.com/puutaro/selectTyper/assets/55217593/d96dcef7-dda5-43c9-9864-1c67bc886a61)
 
+low image 400  
+
+![selectTyperQr400](https://github.com/puutaro/selectTyper/assets/55217593/dc7e36fd-cf37-4580-b55e-cf55f09fde91)
+  
+
+width 300
+<img src="https://github.com/puutaro/selectTyper/assets/55217593/dc7e36fd-cf37-4580-b55e-cf55f09fde91" width="300"> 
+
+
 low image 500  
 
 ![selectTyperQr500](https://github.com/puutaro/selectTyper/assets/55217593/1b6d061a-f780-4ddf-951c-103a47a7cea4)
