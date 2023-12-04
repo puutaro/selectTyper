@@ -11,6 +11,10 @@
 lwo iamge
 ![selectTyperQr](https://github.com/puutaro/selectTyper/assets/55217593/bdaf8ec8-6503-48d9-b93b-f2cc5eb64e27)
 
+
+<img src="https://github.com/puutaro/selectTyper/assets/55217593/bdaf8ec8-6503-48d9-b93b-f2cc5eb64e27" width="300">  
+
+
 select typer site  
 
 
